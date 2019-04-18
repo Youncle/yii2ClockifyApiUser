@@ -1,0 +1,33 @@
+id,name,email,task,description,project,totalTime,Time(decimal),projectTotalTime
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,C2,C2,none,03:01:15,3.02,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,Sentry,Sentry,none,01:09:00,1.15,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1113836073049192,"#1113836073049192 - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'purchase_order_items",Alfred,00:21:40,0.36,15:52:37
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1113836073049199,"#1113836073049199 - Optimize Desilux Indexer","Desilux Beta",11:28:31,11.48,36:20:00
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1114244983024606,"#1114244983024606 - Product URL",Stockpile,03:21:44,3.36,34:15:06
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,Sentry,Sentry,none,01:06:51,1.11,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1114489617010481,"#1114489617010481 - Pagination and filters not working properly","Desilux Beta",02:34:15,2.57,36:20:00
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,"Deploy desilux-beta and stockpile","Deploy desilux-beta and stockpile",none,02:08:00,2.13,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,"Update convert currency formula","Update convert currency formula",none,00:47:00,0.78,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,Sentry,Sentry,none,01:05:45,1.1,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1114709000481887,"#1114709000481887 - Trying to get property 'currentBusiness' of non-object",Alfred,02:39:58,2.67,15:52:37
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,Sentry,Sentry,none,01:50:34,1.84,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1114709000481895,"#1114709000481895 - Trying to get property 'status' of non-object",Alfred,00:30:00,0.5,15:52:37
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,Sentry,Sentry,none,00:50:42,0.85,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1114932553084927,"#1114932553084927 - TypeError: JSON.parse(...).map is not a function",Alfred,01:58:47,1.98,15:52:37
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1114982830323976,"#1114982830323976 - Trying to get property 'items' of non-object Line: 709 File: /var/www/alfred/construct/apps/alfre...",Alfred,04:42:15,4.7,15:52:37
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,Sentry,Sentry,none,01:32:58,1.55,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115129532715826,"#1115129532715826 - Cannot read property 'data' of undefined","Desilux Beta",00:48:20,0.81,36:20:00
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,"React - Desilux Shop","React - Desilux Shop",none,00:41:22,0.69,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115326585818324,"#1115326585818324 - Image not loading as primary image for product. *",Alfred,02:55:03,2.92,15:52:37
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#938116837627882,"#938116837627882 - Add additional search functions to PO overview page *",Alfred,01:05:58,1.1,15:52:37
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115326585818346,"#1115326585818346 - Editing Price for Product in Alfred Inventory *",Alfred,01:38:56,1.65,15:52:37
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,"Hot fix - desilux enabler","Hot fix - desilux enabler",none,03:32:00,3.53,none
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115510660080910,"#1115510660080910 - cloudStore client",Stockpile,19:25:03,19.42,34:15:06
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115719985054636,"#1115719985054636 - Cloudstore API validation",Stockpile,00:06:06,0.1,34:15:06
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115719985054635,"#1115719985054635 - Updater SKU fix",Stockpile,02:55:52,2.93,34:15:06
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115719985054663,"#1115719985054663 - check img source API Unomag","Desilux Beta",04:33:01,4.55,36:20:00
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#907628698838964,"#907628698838964 - cache the scroll if visiting a product & resume when going to the previous page","Desilux Beta",05:31:45,5.53,36:20:00
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115719985054653,"#1115719985054653 - product image - full size on blur","Desilux Beta",01:06:50,1.11,36:20:00
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115719985054640,"#1115719985054640 - Currency update - cron job",Stockpile,00:34:16,0.57,34:15:06
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115719985054658,"#1115719985054658 - checkout flow","Desilux Beta",10:17:18,10.29,36:20:00
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115719985054638,"#1115719985054638 - Multi vendor architecture",Stockpile,07:52:05,7.87,34:15:06

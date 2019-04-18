@@ -1,0 +1,33 @@
+id,name,email,task,description,project,projectTotalTime,totalTime,Time(decimal)
+5c7801dcb0798721ba0c1f27,Maria,maria@east-wolf.com,#1111220232374749,"#1111220232374749 - Personal info - design update",TB,62:54:14,16:37:44,16.63
+5c519485b079874304b25ce3,"Cristina FC",cristina.catrinaru@east-wolf.com,PM,PM,none,none,08:29:00,8.48
+5c5c41e5b079871c518e1a4d,"Florin Pavel",florin@east-wolf.com,#1115890605074749,"#1115890605074749 - Mailchimp lists",TB,62:54:14,03:12:15,3.2
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115510660080910,"#1115510660080910 - cloudStore client",Stockpile,19:53:37,07:45:57,7.77
+5c5c41d5b079871c518e19d6,"Roxana Roca",roxana.roca@east-wolf.com,"React - JS","React - JS",none,none,06:32:10,6.54
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,Research,Research,none,none,05:57:47,5.96
+5c7801dcb0798721ba0c1f27,Maria,maria@east-wolf.com,lunch,lunch,none,none,00:45:00,0.75
+5c5c41d5b079871c518e19d6,"Roxana Roca",roxana.roca@east-wolf.com,#1116651774278727,"#1116651774278727 - dashboard",TB,62:54:14,18:16:57,18.28
+5c519485b079874304b25ce3,"Cristina FC",cristina.catrinaru@east-wolf.com,PM,PM,none,none,02:52:07,2.87
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1115719985054638,"#1115719985054638 - Multi vendor architecture",Stockpile,19:53:37,12:07:40,12.13
+5c5c41d5b079871c518e19d6,"Roxana Roca",roxana.roca@east-wolf.com,#1116817025672306,"#1116817025672306 - Text cutoff on registration page",TB,62:54:14,02:40:14,2.67
+5c519485b079874304b25ce3,"Cristina FC",cristina.catrinaru@east-wolf.com,Lunch,Lunch,none,none,05:53:56,5.9
+5c7801dcb0798721ba0c1f27,Maria,maria@east-wolf.com,lunch,lunch,none,none,00:47:03,0.78
+5c519485b079874304b25ce3,"Cristina FC",cristina.catrinaru@east-wolf.com,PM,PM,none,none,08:35:00,8.58
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1116817025672310,"#1116817025672310 - Almost There - sometimes only refreshes page and cannot continue",TB,62:54:14,02:35:49,2.6
+5c7801dcb0798721ba0c1f27,Maria,maria@east-wolf.com,"1111220232374749 - payment methods - design update","1111220232374749 - payment methods - design update",none,none,02:18:00,2.3
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1116791526624527,"#1116791526624527 1116791526624527",TB,62:54:14,03:13:07,3.22
+5c5c41e5b079871c518e1a4d,"Florin Pavel",florin@east-wolf.com,#1116414850774369,"#1116414850774369 - influx db integration",Alfred,80:29:16,19:00:00,19
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,Lunch,Lunch,none,none,00:29:00,0.48
+5c7801dcb0798721ba0c1f27,Maria,maria@east-wolf.com,lunch,lunch,none,none,00:25:00,0.42
+5c7801dcb0798721ba0c1f27,Maria,maria@east-wolf.com,"1111220232374749 - payment methods - design update","1111220232374749 - payment methods - design update",none,none,01:35:49,1.6
+5c5c41d5b079871c518e19d6,"Roxana Roca",roxana.roca@east-wolf.com,#1117045187333555,"#1117045187333555 - LP - new design",TB,62:54:14,09:29:56,9.5
+5c5c4203b079871c518e1b47,"Robert David",robert.david@east-wolf.com,#1117041948843946,"#1117041948843946 - add retry behavior",Alfred,80:29:16,01:36:30,1.61
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1117034605333357,"#1117034605333357  fix the column order",Alfred,80:29:16,02:51:03,2.85
+5c7801dcb0798721ba0c1f27,Maria,maria@east-wolf.com,#794853622487314,"#794853622487314 - sketch templates for TB redesign",TB,62:54:14,11:57:36,11.96
+5c519485b079874304b25ce3,"Cristina FC",cristina.catrinaru@east-wolf.com,PM,PM,none,none,08:26:43,8.45
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1117182156951450,"#1117182156951450 Facebook Conversion tracking issue *",TB,62:54:14,01:13:01,1.22
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1117182156951446,"#1117182156951446 When creating new PO automatic Brand/Supplier generate with notes from a different PO.  *",Alfred,80:29:16,46:44:29,46.74
+5c7801dcb0798721ba0c1f27,Maria,maria@east-wolf.com,lunch,lunch,none,none,00:42:03,0.7
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,"(broken entry, worked on several tasks up until 6pm)
+","(broken entry, worked on several tasks up until 6pm)
+",none,none,00:01:00,0.02

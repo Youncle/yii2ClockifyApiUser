@@ -1,0 +1,16 @@
+id,name,email,task,description,project,totalTime,Time(decimal),projectTotalTime
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1113249995922528,"#1113249995922528 Box import needs to work with the new stocks",Alfred,04:28:34,4.48,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1113249995922536,"#1113249995922536 Aftership integration/research",Alfred,10:51:25,10.86,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#951344896894398,"#951344896894398 Dev Console access for API (tracking updates) - Production Key & Password",Alfred,02:08:15,2.14,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1114530651428018,"#1114530651428018 Notify customers of upcoming CC Expiration",Alfred,05:43:14,5.72,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1115101453007357,"#1115101453007357 Aftership Client Draft",Alfred,07:16:14,7.27,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1115326585818329,"#1115326585818329 Paused Account Resume Date Not Displayed *",Alfred,03:40:28,3.67,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1116076112390029,"#1116076112390029 update accounting report TB",Alfred,03:48:37,3.81,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1116069843013416,"#1116069843013416 Script that updates all boxes from the past 2 months with an invoice id",Alfred,04:10:51,4.18,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1116373127505410,"#1116373127505410 add the stripe fee to the accounting report",Alfred,01:20:08,1.34,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1108788250304612,"#1108788250304612 LCP Integration in alfred",Alfred,04:34:29,4.57,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1115890605074749,"#1115890605074749 Mailchimp lists",Alfred,02:04:17,2.07,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,#1117034605333357,"#1117034605333357  fix the column order",Alfred,02:51:03,2.85,52:58:35
+5c5c41f1b079871c518e1a95,Daniel,daniel@east-wolf.com,"(broken entry, worked on several tasks up until 6pm)
+","(broken entry, worked on several tasks up until 6pm)
+",none,00:01:00,0.02,none
